@@ -1,0 +1,16 @@
+DIMENSIONS:
+
+1) rem (relative em)
+all elements depending on root element dimension
+rem depending on root font size.
+
+2) em
+
+em depends on  nearest parent element direction
+
+3) %
+4) vw & vh (viewport width, viewport height)
+depending on screen(view)
+responsive web design
+
+5) px (pixel)
